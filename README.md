@@ -80,20 +80,22 @@ If you get stuck on the famous "Rainbow Screen", you might need to check a few t
  * Your SD card needs to be at least **class 10** and have **4GB**
  * The Power Supply needs to be at least **2A at 5V** ( i recommend using the power Supply that comes with the kit, in case you buy one ), it might change the voltage depending on your Raspberry version 
  * Be sure you selected the right **Rasplex version** or **Raspberry Model** on the Rasplex settings according to the Raspberry Model
+
  
- ### 4. Download the image
+### 4. Download the image
  
  If you selected the last version of Rasplex, you can Click the "Download" button and select the path you want to download. 
  
  If you need to chose another version you downloaded from GitHub or anywhere else, you can click on "Select Image", chose it , and continue to the next step. 
  
- ### 5. Select your SD card
+### 5. Select your SD card
  
  In the dropdown menu, it will appear the SD cards you have connected, chose the one you want to target and continue.
  
  In case of don´t show any, check if it is well connected to the computer or the adapter (as well as the cables, in this case)
  
- ### 6. Write SD card
+ 
+### 6. Write SD card
  
  With your image already selected,click on "Write SD card" now it´s going to insert it into your SD Card, for the Raspberry Pi understand it. 
  
@@ -141,9 +143,10 @@ To Sign in you can either:
 
 * **Use the Pin**, going to the link Rasplex gives you and right the Pin on the screen on that Link
  
- * **Connect Manually**, just putting your email and password will allow the permission to access the server.
- 
- ### 8. Ready to go! 
+* **Connect Manually**, just putting your email and password will allow the permission to access the server.
+
+
+### 8. Ready to go! 
  
  After your connection is confirmed, you will be directed to the Rasplex Menu, and travel between your libraries! 
 
