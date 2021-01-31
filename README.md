@@ -79,7 +79,7 @@ The solution i found, was going to their list of [repositories][4] on GitHub and
 If you get stuck on the famous "Rainbow Screen", you might need to check a few things:
  * Your SD card needs to be at least **class 10** and have **4GB**
  * The Power Supply needs to be at least **2A at 5V** ( i recommend using the power Supply that comes with the kit, in case you buy one ), it might change the voltage depending on your Raspberry version 
- * Be sure you selected the right **Rasplex version** or **Raspberry Model** on the Rasplex settings according to the Raspberry Model
+ * Be sure you selected the right **Rasplex version** on the Rasplex settings according to the Raspberry Model
 
  
 ### 4. Download the image
