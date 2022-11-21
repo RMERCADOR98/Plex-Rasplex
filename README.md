@@ -2,7 +2,7 @@
 
 Being the first project i´ve ever made with a Raspberry Pi, i was challenged to learn how to use this "mini computer" as a plex media player.
 
-I´m going to share all the steps i made in order to use a Raspberry into a portable device to connect anywhere i want.
+I´m going to share all the steps i made in order to turn a Raspberry into a portable device to connect anywhere i want.
 
 * [Plex](#plex)
 * [RasPlex](#rasplex)
